@@ -1,0 +1,26 @@
+[
+    {
+        "usuario": "AdrianOficial",
+        "titulo": "Test",
+        "descripcion": "testeo",
+        "categoria": "Prueba",
+        "tags": [
+            "Anime"
+        ],
+        "tipo": "imagen",
+        "archivo": "solicitudes\/1750032777_Test1.png",
+        "estado": "pendiente"
+    },
+    {
+        "usuario": "AdrianOficial",
+        "titulo": "Test",
+        "descripcion": "testeo",
+        "categoria": "Galeria",
+        "tags": [
+            "Anime"
+        ],
+        "tipo": "imagen",
+        "archivo": "solicitudes\/1750034166_Test1.png",
+        "estado": "pendiente"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "nombre": "AdrianOficial",
+        "email": "adrianalegresanchez905@gmail.com",
+        "password": "$2y$10$v3FWtZBgPk4NfIzQMQuHI.Aa5GwSyENgpXDRnhNCAhye61XymdV6e",
+        "rol": "admin"
+    },
+    {
+        "nombre": "Edwardofc",
+        "email": "ed0099@proton.me",
+        "password": "$2y$10$2mCC23WIwivzhuo0oecyfeE6i2DJv6sqipEMBqd5JM\/P6271HElp2",
+        "rol": "admin"
+    },
+    {
+        "nombre": "GataDios",
+        "email": "gatanina999@gmail.com",
+        "password": "$2y$10$f1avx66weMEtWuS.RenAfOmhUnPLTFSpQxc1pHyH9UV34dK1.728K",
+        "rol": "admin"
+    },
+    {
+        "nombre": "matias",
+        "email": "usiku1234@gmail.com",
+        "password": "$2y$10$VIvPZfl29gscZ6Vp4tsfCupJAMVgSZ\/V9xf1uhrllX\/dBARrgNyEy",
+        "rol": "usuario"
+    },
+    {
+        "nombre": "Wuxtin ",
+        "email": "gonzalorodrigues344@gmail.com",
+        "password": "$2y$10$\/Up6rItRTdiN8zyFnpIwkuyEiTsjRM\/jxyGwIJEW9hUXdV3Q2p.mO",
+        "rol": "usuario"
+    },
+    {
+        "nombre": "erenxs01 ",
+        "email": "erenxz01@gmail.com",
+        "password": "$2y$10$.2fwBbKBtWWFFiBJt\/EA7e76djYTdnEDGGfDOGPjbIANRJ59jTamW",
+        "rol": "usuario"
+    },
+    {
+        "nombre": "Filian",
+        "email": "adrianalegresanchez897@gmail.com",
+        "password": "$2y$10$I5RM\/OPx.A\/TGk5q6jsxm.P8agW.w0eLxcD6msuuZNwmm2aib77x2",
+        "rol": "admin"
+    },
+    {
+        "nombre": "reynierramos280@gmail.com",
+        "email": "reynierramos280@gmail.com",
+        "password": "$2y$10$kVA0L1F0FtyXYggsr.Ffg.tntXRQgfBWDG6R4Xk.Ybyk1BEHkwDCO",
+        "rol": "usuario"
+    },
+    {
+        "nombre": "IzumiDev",
+        "email": "izumipluss@gmail.com",
+        "password": "$2y$10$CI.tmNsOhp6B3AO4EVkj.OWPnczrwQh5UW3ih0d2QxCZB\/XkxM49i",
+        "rol": "usuario"
+    },
+    {
+        "nombre": "MediaHub ",
+        "email": "mediahuboficial2@gmail.com",
+        "password": "$2y$10$lY1sFDkcmINdVi3p46F1F.4en1f8KlooX1UMoTvMB64089D4SFMnO",
+        "rol": "usuario"
+    }
+]
